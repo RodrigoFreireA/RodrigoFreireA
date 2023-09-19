@@ -2,7 +2,7 @@
 👋 Enthusiastic and beginner programmer, passionate about creating solutions with code. My favorite tools include PHP and Laravel for building robust and dynamic applications, while HTML and CSS3 bring my designs to life. I'm on a journey of continuous learning, exploring the vast world of programming. I'm a version control enthusiast and am always improving my skills with Git and GitHub. Join me as I build, learn and share my progress!
 
 ### Conecte-se comigo
-[![Perfil](https://img.shields.io/badge/-Meu%20Perfil%20-30A3DC?style=for-the-badge)]([https:///](https://github.com/RodrigoFreireA/))
+[![Perfil](https://img.shields.io/badge/-20Perfil%20-30A3DC?style=for-the-badge)]([https:///](https://github.com/RodrigoFreireA/))
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:rohfreire@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/RodrigoFreireA/)
 
