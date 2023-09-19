@@ -1,5 +1,5 @@
 # Rodrigo Freire de Andrade
-👋 Programador entusiasta e iniciante, apaixonado por criar soluções com código. Minhas ferramentas favoritas incluem PHP e Laravel para construir aplicações robustas e dinâmicas, enquanto HTML e CSS3 dão vida ao meu design. Estou em uma jornada de aprendizado contínuo, explorando o vasto mundo da programação. Sou um entusiasta do controle de versão e estou sempre aprimorando minhas habilidades com o Git e o GitHub. Junte-se a mim enquanto construo, aprendo e compartilho meu progresso!
+👋 Enthusiastic and beginner programmer, passionate about creating solutions with code. My favorite tools include PHP and Laravel for building robust and dynamic applications, while HTML and CSS3 bring my designs to life. I'm on a journey of continuous learning, exploring the vast world of programming. I'm a version control enthusiast and am always improving my skills with Git and GitHub. Join me as I build, learn and share my progress!
 
 ### Conecte-se comigo
 [![Perfil](https://img.shields.io/badge/-Meu%20Perfil%20-30A3DC?style=for-the-badge)]([https:///](https://github.com/RodrigoFreireA/))
