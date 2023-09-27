@@ -3,7 +3,7 @@
 
 ### Connect with me
 [![Perfil](https://img.shields.io/badge/-%20Perfil%20-30A3DC?style=for-the-badge)]([https:///](https://github.com/RodrigoFreireA/))
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:rohfreire@hotmail.com)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:r.freire.a@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/RodrigoFreireA/)
 
 
